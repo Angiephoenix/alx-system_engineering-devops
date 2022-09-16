@@ -1,3 +1,1 @@
-configuration management
-
-This project contains configuration management tasks using puppet 
+0x0A. Configuration management
