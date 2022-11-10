@@ -1,4 +1,4 @@
-# Change the OS configuration login to use holberton user
+# Changing the OS configuration login to use holberton user
 exec {'hard-type':
   command => 'sed -i "/holberton hard/s/5/50000/" /etc/security/limits.conf',
   path    => '/usr/local/bin/:/bin/'
